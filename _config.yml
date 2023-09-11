@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lingyun Wu / Site Title"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Lingyun Wu"
 description              : &description "personal description"
